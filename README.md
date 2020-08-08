@@ -15,9 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+
+| Stats    | ML         | Time-series |Viz           | Utils      |Various  | API         |
+|----------|------------|-------------|---------------|------------|---------|-------------|
+|bnlearn   |clusteval   |findpeaks    |d3graph        |df2onehot   |irelease |googletrends |
+|hnet      |classeval   |temporalrank |treeplot       |pypickle    |         |slacki       |
+|distfit   |            |caerus       |scatterd       |ismember    |         |             |
+|pca       |            |kaplanmeier  |imagesc        |            |         |             |
+|thompson  |            |             |flameplot      |            |         |             |
+|          |            |             |worldmap       |            |         |             |
+
+
+
 
