@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 | Stats                                           | ML                                                  | Time-series                                           | Viz            | Utils      | Various | API         |
 |-------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------|----------------|------------|---------|-------------|
-| [bnlearn](https://erdogant.github.io/bnlearn/)  | clusteval                                           | [findpeaks](https://erdogant.github.io/findpeaks/)    | d3graph        |df2onehot   |irelease |googletrends |
+| [bnlearn](https://erdogant.github.io/bnlearn/)   | clusteval                                           | [findpeaks](https://erdogant.github.io/findpeaks/)    | d3graph        |df2onehot   |irelease |googletrends |
 | [hnet](https://erdogant.github.io/hnet/)        | [classeval](https://erdogant.github.io/classeval/)  | temporalrank                                          | treeplot       |pypickle    |         |slacki       |
 | [distfit](https://erdogant.github.io/distfit/)  |                                                     | caerus                                                | scatterd       |ismember    |         |             |
 | pca                                             |                                                     | kaplanmeier                                           | imagesc        |            |         |             |
@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 
 
 
+[![Sphinx](https://img.shields.io/badge/Sphinx-Docs-Green)](https://erdogant.github.io/bnlearn/)
