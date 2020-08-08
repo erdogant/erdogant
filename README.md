@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-| Stats                                           | ML         | Time-series |Viz           | Utils      |Various  | API         |
-|-------------------------------------------------|------------|-------------|---------------|------------|---------|-------------|
-| [bnlearn](https://erdogant.github.io/bnlearn/)  |clusteval   |findpeaks    |d3graph        |df2onehot   |irelease |googletrends |
-| [hnet](https://erdogant.github.io/hnet/)        |classeval   |temporalrank |treeplot       |pypickle    |         |slacki       |
-| [distfit](https://erdogant.github.io/distfit/)  |            |caerus       |scatterd       |ismember    |         |             |
-| pca                                             |            |kaplanmeier  |imagesc        |            |         |             |
-| thompson                                        |            |             |flameplot      |            |         |             |
-|                                                 |            |             |worldmap       |            |         |             |
+| Stats                                           | ML                                                  | Time-series                                           | Viz            | Utils      | Various | API         |
+|-------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------|----------------|------------|---------|-------------|
+| [bnlearn](https://erdogant.github.io/bnlearn/)  | clusteval                                           | [findpeaks](https://erdogant.github.io/findpeaks/)    | d3graph        |df2onehot   |irelease |googletrends |
+| [hnet](https://erdogant.github.io/hnet/)        | [classeval](https://erdogant.github.io/classeval/)  | temporalrank                                          | treeplot       |pypickle    |         |slacki       |
+| [distfit](https://erdogant.github.io/distfit/)  |                                                     | caerus                                                | scatterd       |ismember    |         |             |
+| pca                                             |                                                     | kaplanmeier                                           | imagesc        |            |         |             |
+| thompson                                        |                                                     |                                                       | flameplot      |            |         |             |
+|                                                 |                                                     |                                                       | worldmap       |            |         |             |
 
 
 
