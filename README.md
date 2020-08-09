@@ -1,6 +1,6 @@
 ### A structured list of my repo's
 
-All Repos can be found below the table. The links in the table are to the API (Sphinx) documentation.
+All Repos can be found in the Repositories section. The links in the table are to the API (Sphinx) documentation.
 
 <!--
 **erdogant/erdogant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
