@@ -18,17 +18,15 @@ Here are some ideas to get you started:
 -->
 
 
-| Stats                                           | ML                                                  | (Time)Series                                           | Viz            | Utils      | Various | API         |
+| Statistics                                      | Machine learning                                   | (Time)Series                                           | Vizualization  | Utils      | Various | API         |
 |-------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------|----------------|------------|---------|-------------|
 | [bnlearn](https://erdogant.github.io/bnlearn/)  | clusteval                                           | [findpeaks](https://erdogant.github.io/findpeaks/)    | d3graph        |df2onehot   |irelease |googletrends |
 | [hnet](https://erdogant.github.io/hnet/)        | [classeval](https://erdogant.github.io/classeval/)  | temporalrank                                          | treeplot       |pypickle    |         |slacki       |
-| [distfit](https://erdogant.github.io/distfit/)  |                                                     | caerus                                                | scatterd       |ismember    |         |             |
+| [distfit](https://erdogant.github.io/distfit/)  | [hgboost](https://erdogant.github.io/hgboost/)      | caerus                                                | scatterd       |ismember    |         |             |
 | pca                                             |                                                     | kaplanmeier                                           | imagesc        |            |         |             |
 | thompson                                        |                                                     |                                                       | flameplot      |            |         |             |
 |                                                 |                                                     |                                                       | worldmap       |            |         |             |
 |                                                 |                                                     |                                                       | colourmap      |            |         |             |
-
-
 
 
 
