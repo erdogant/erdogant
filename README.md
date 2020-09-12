@@ -1,6 +1,7 @@
 ### A structured list of my repo's
 
 All Repos can be found in the Repositories section. The links in the table are to the API (Sphinx) documentation.
+[Find here my Pypi download stats](https://erdogant.github.io/docs/imagesc/pypi/pypi_heatmap.html)
 
 <!--
 **erdogant/erdogant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,6 +30,3 @@ Here are some ideas to get you started:
 |                                                 |                                                     |                                                       | colourmap      |            |         |             |
 
 
-
-
-[Pypi stats](https://erdogant.github.io/docs/imagesc/pypi/pypi_heatmap.html)
