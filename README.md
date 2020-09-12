@@ -31,9 +31,4 @@ Here are some ideas to get you started:
 
 
 
-{::options parse_block_html="true" /}
-
-   <iframe src="https://erdogant.github.io/docs/imagesc/pypi/pypi_heatmap.html" height="500px" width="1000px", frameBorder="0"></iframe>
-
-{::options parse_block_html="false" /}
-
+[Pypi stats](https://erdogant.github.io/docs/imagesc/pypi/pypi_heatmap.html)
