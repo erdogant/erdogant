@@ -31,4 +31,7 @@ Here are some ideas to get you started:
 
 
 
+.. raw:: html
+
+   <iframe src="https://erdogant.github.io/docs/imagesc/pypi/pypi_heatmap.html" height="500px" width="1000px", frameBorder="0"></iframe>
 
