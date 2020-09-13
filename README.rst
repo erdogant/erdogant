@@ -7,11 +7,11 @@ All Repos can be found in the Repositories section. The links in the table are t
   +--------------+--------+-----------+--------+-----------+
   | Statistics   | Node 1 | Node 2    | Node 3 | Node 4    |
   +==============+========+===========+========+===========+
-  | `bnlearn`_  | False  | True      | True   | False     |
+  | `Pypi download stats`_   | False  | True      | True   | False     |
   +--------------+--------+-----------+--------+-----------+
-  | `hnet`_     | False  | False     | False  | True      |
+  | `hnet`_      | False  | False     | False  | True      |
   +--------------+--------+-----------+--------+-----------+
-  | `distfit`_  | False  | False     | False  | True      |
+  | `distfit`_   | False  | False     | False  | True      |
   +--------------+--------+-----------+--------+-----------+
   | pca          | False  | False     | False  | False     |
   +--------------+--------+-----------+--------+-----------+
@@ -21,6 +21,17 @@ All Repos can be found in the Repositories section. The links in the table are t
 .. _bnlearn: https://erdogant.github.io/bnlearn/
 .. _hnet: https://erdogant.github.io/hnet/
 .. _distfit: https://erdogant.github.io/distfit/
+
+
+| Machine learning                                   | (Time)Series                                           | Vizualization  | Utils      | Various | API         |
+|-----------------------------------------------------|-------------------------------------------------------|----------------|------------|---------|-------------|
+| clusteval                                           | [findpeaks](https://erdogant.github.io/findpeaks/)    | d3graph        |df2onehot   |irelease |googletrends |
+| [classeval](https://erdogant.github.io/classeval/)  | temporalrank                                          | treeplot       |pypickle    |         |slacki       |
+| [hgboost](https://erdogant.github.io/hgboost/)      | caerus                                                | scatterd       |ismember    |         |             |
+|                                                     | kaplanmeier                                           | imagesc        |            |         |             |
+|                                                     |                                                       | flameplot      |            |         |             |
+|                                                     |                                                       | worldmap       |            |         |             |
+|                                                     |                                                       | colourmap      |            |         |             |
 
 
 Find here my `Pypi download stats`_
