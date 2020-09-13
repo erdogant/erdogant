@@ -7,7 +7,7 @@ All Repos can be found in the Repositories section. The links in the table are t
   +--------------+--------+-----------+--------+-----------+
   | Statistics   | Node 1 | Node 2    | Node 3 | Node 4    |
   +==============+========+===========+========+===========+
-  | `CNN`_       | False  | True      | True   | False     |
+  | `bnlearn`_       | False  | True      | True   | False     |
   +--------------+--------+-----------+--------+-----------+
   | `hnet`_      | False  | False     | False  | True      |
   +--------------+--------+-----------+--------+-----------+
