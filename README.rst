@@ -36,9 +36,6 @@ Find here my `Pypi download stats`_
 
 .. _Pypi download stats: https://erdogant.github.io/docs/imagesc/pypi/pypi_heatmap.html
 
-<div class="github-card" data-github="erdogant" data-width="400" data-height="150" data-theme="default"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
-
 .. raw:: html
 
    <iframe src="https://erdogant.github.io/docs/d3graph/sprinkler_example/index.html" height="500px" width="1000px", frameBorder="0"></iframe>
