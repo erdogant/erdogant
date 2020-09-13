@@ -2,7 +2,7 @@
 
 All Repos can be found in the Repositories section. The links in the table are to the API (Sphinx) documentation.
 
-Find here my `pypi_download_stats`_
+Find here my `Pypi download stats`_
 
 
 .. table::
@@ -28,4 +28,4 @@ Find here my `pypi_download_stats`_
 
 
 .. _CNN: http://cnn.com/
-.. _pypi_download_stats: https://erdogant.github.io/docs/imagesc/pypi/pypi_heatmap.html
+.. _Pypi download stats: https://erdogant.github.io/docs/imagesc/pypi/pypi_heatmap.html
