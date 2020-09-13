@@ -38,18 +38,10 @@ Find here my `Pypi download stats`_
 
 .. |pypi_plot| image:: docs/figs/pypi_downloads.png
 
-.. table:: Pypi download count plot
-   :align: center
+.. table:: 
+   :align: left
 
    +--------------+
    | |pypi_plot|  |
    +--------------+
-
-
-
-<p align="center">
-  <a href="https://erdogant.github.io/docs/imagesc/pypi/pypi_heatmap.html">
-     <img src="https://github.com/erdogant/erdogant/blob/master/docs/figs/pypi_downloads.png" />
-  </a>
-</p>
 
