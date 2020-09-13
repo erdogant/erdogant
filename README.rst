@@ -18,15 +18,15 @@ All Repos can be found in the Repositories section. The links in the table are t
   | thompson     | False  | False     | False  | False     |
   +--------------+--------+-----------+--------+-----------+
 
-| Statistics                                      | Machine learning                                   | (Time)Series                                           | Vizualization  | Utils      | Various | API         |
-|-------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------|----------------|------------|---------|-------------|
-|                                                 | clusteval                                           | [findpeaks](https://erdogant.github.io/findpeaks/)    | d3graph        |df2onehot   |irelease |googletrends |
-|                                                | [classeval](https://erdogant.github.io/classeval/)  | temporalrank                                          | treeplot       |pypickle    |         |slacki       |
-| [distfit](https://erdogant.github.io/distfit/)  | [hgboost](https://erdogant.github.io/hgboost/)      | caerus                                                | scatterd       |ismember    |         |             |
-| pca                                             |                                                     | kaplanmeier                                           | imagesc        |            |         |             |
-| thompson                                        |                                                     |                                                       | flameplot      |            |         |             |
-|                                                 |                                                     |                                                       | worldmap       |            |         |             |
-|                                                 |                                                     |                                                       | colourmap      |            |         |             |
+| Machine learning                                   | (Time)Series                                           | Vizualization  | Utils      | Various | API         |
+|-----------------------------------------------------|-------------------------------------------------------|----------------|------------|---------|-------------|
+| clusteval                                           | [findpeaks](https://erdogant.github.io/findpeaks/)    | d3graph        |df2onehot   |irelease |googletrends |
+| [classeval](https://erdogant.github.io/classeval/)  | temporalrank                                          | treeplot       |pypickle    |         |slacki       |
+| [hgboost](https://erdogant.github.io/hgboost/)      | caerus                                                | scatterd       |ismember    |         |             |
+|                                                     | kaplanmeier                                           | imagesc        |            |         |             |
+|                                                     |                                                       | flameplot      |            |         |             |
+|                                                     |                                                       | worldmap       |            |         |             |
+|                                                     |                                                       | colourmap      |            |         |             |
 
 
 Find here my `Pypi download stats`_
