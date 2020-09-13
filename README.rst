@@ -38,7 +38,7 @@ Find here my `Pypi download stats`_
 
 .. |pypi_plot| image:: docs/figs/pypi_downloads.png
    :height: 100px
-   :width: 200 px
+   :width: 100 px
    :scale: 50 %
    
 .. table:: 
