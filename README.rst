@@ -7,7 +7,7 @@ All Repos can be found in the Repositories section. The links in the table are t
   +--------------+--------+-----------+--------+-----------+
   | Statistics   | Node 1 | Node 2    | Node 3 | Node 4    |
   +==============+========+===========+========+===========+
-  | `Pypi download stats`_   | False  | True      | True   | False     |
+  | `CNN`_       | False  | True      | True   | False     |
   +--------------+--------+-----------+--------+-----------+
   | `hnet`_      | False  | False     | False  | True      |
   +--------------+--------+-----------+--------+-----------+
@@ -18,8 +18,14 @@ All Repos can be found in the Repositories section. The links in the table are t
   | thompson     | False  | False     | False  | False     |
   +--------------+--------+-----------+--------+-----------+
 
+Get the latest news at .
+
+.. _CNN: http://cnn.com/
+
 .. _bnlearn: https://erdogant.github.io/bnlearn/
+
 .. _hnet: https://erdogant.github.io/hnet/
+
 .. _distfit: https://erdogant.github.io/distfit/
 
 
