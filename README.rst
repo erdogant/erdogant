@@ -4,19 +4,25 @@ All Repos can be found in the Repositories section. The links in the table are t
 
 .. table::
   
-  +--------------+------------------+-----------+--------+-----------+
-  | Statistics   | Machine learning | Node 2    | Node 3 | Node 4    |
-  +==============+==================+===========+========+===========+
-  | `bnlearn`_   | clusteval        | True      | True   | False     |
-  +--------------+------------------+-----------+--------+-----------+
-  | `hnet`_      | `classeval`_     | False     | False  | True      |
-  +--------------+------------------+-----------+--------+-----------+
-  | `distfit`_   | `hgboost`_       | False     | False  | True      |
-  +--------------+------------------+-----------+--------+-----------+
-  | pca          |                  | False     | False  | False     |
-  +--------------+------------------+-----------+--------+-----------+
-  | thompson     |                  | False     | False  | False     |
-  +--------------+------------------+-----------+--------+-----------+
+  +--------------+------------------+-----------------+-------------------+-----------+-----------+--------------+     
+  | Statistics   | Machine learning | (Time)Series    | Vizualization     | Utils     | Various   | API          |     
+  +==============+==================+=================+===================+===========+===========+==============+     
+  | `bnlearn`_   | clusteval        | `findpeaks`_    | d3graph           | df2onehot | irelease  | googletrends |     
+  +--------------+------------------+-----------------+-------------------+-----------+-----------+--------------+     
+  | `hnet`_      | `classeval`_     | temporalrank    | treeplot          | pypickle  | pypiplot  | slacki       |     
+  +--------------+------------------+-----------------+-------------------+-----------+-----------+--------------+     
+  | `distfit`_   | `hgboost`_       | caerus          | scatterd          | ismember  |           |              |     
+  +--------------+------------------+-----------------+-------------------+-----------+-----------+--------------+     
+  | pca          |                  |                 | kaplanmeier       |           |           |              |     
+  +--------------+------------------+-----------------+-------------------+-----------+-----------+--------------+     
+  | thompson     |                  |                 | flameplot         |           |           |              |     
+  +--------------+------------------+-----------------+-------------------+-----------+-----------+--------------+     
+  |              |                  |                 | worldmap          |           |           |              |     
+  +--------------+------------------+-----------------+-------------------+-----------+-----------+--------------+     
+  |              |                  |                 | colourmap         |           |           |              |     
+  +--------------+------------------+-----------------+-------------------+-----------+-----------+--------------+     
+  |              |                  |                 | imagesc           |           |           |              |     
+  +--------------+------------------+-----------------+-------------------+-----------+-----------+--------------+     
 
 .. _bnlearn: https://erdogant.github.io/bnlearn/
 
@@ -28,16 +34,7 @@ All Repos can be found in the Repositories section. The links in the table are t
 
 .. _hgboost: https://erdogant.github.io/hgboost/
 
-
-| (Time)Series                                           | Vizualization  | Utils      | Various | API         |
-|-------------------------------------------------------|----------------|------------|---------|-------------|
-| [findpeaks](https://erdogant.github.io/findpeaks/)    | d3graph        |df2onehot   |irelease |googletrends |
-| temporalrank                                          | treeplot       |pypickle    |         |slacki       |
-| caerus                                                | scatterd       |ismember    |         |             |
-|                                                     | kaplanmeier                                           | imagesc        |            |         |             |
-|                                                     |                                                       | flameplot      |            |         |             |
-|                                                     |                                                       | worldmap       |            |         |             |
-|                                                     |                                                       | colourmap      |            |         |             |
+.. _findpeaks: https://erdogant.github.io/findpeaks/
 
 
 Find here my `Pypi download stats`_
