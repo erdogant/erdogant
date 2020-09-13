@@ -42,7 +42,7 @@ Find here my `Pypi download stats`_
 .. table:: 
    :align: left
 
-+--------------+
-| |pypi_plot|  |
-+--------------+
+   +--------------+
+   | |pypi_plot|  |
+   +--------------+
 
