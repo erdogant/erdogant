@@ -36,7 +36,6 @@ Find here my `Pypi download stats`_
 
 .. _Pypi download stats: https://erdogant.github.io/docs/imagesc/pypi/pypi_heatmap.html
 
-Each node contains a text-label, whereas the links of associated nodes can be highlighted when double clicked on the node of interest. Furthermore, each node involves a tooltip that can easily be adapted to display any of the underlying data. For deeper examination of the network, edges can be gradually broken on its weight using a slider. 
 
 .. raw:: html
 
