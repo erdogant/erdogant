@@ -18,6 +18,11 @@ All Repos can be found in the Repositories section. The links in the table are t
   | thompson     | False  | False     | False  | False     |
   +--------------+--------+-----------+--------+-----------+
 
+.. _bnlearn: https://erdogant.github.io/bnlearn/
+.. _hnet: https://erdogant.github.io/hnet/
+.. _distfit: https://erdogant.github.io/distfit/
+
+
 | Machine learning                                   | (Time)Series                                           | Vizualization  | Utils      | Various | API         |
 |-----------------------------------------------------|-------------------------------------------------------|----------------|------------|---------|-------------|
 | clusteval                                           | [findpeaks](https://erdogant.github.io/findpeaks/)    | d3graph        |df2onehot   |irelease |googletrends |
@@ -31,13 +36,10 @@ All Repos can be found in the Repositories section. The links in the table are t
 
 Find here my `Pypi download stats`_
 
+.. _Pypi download stats: https://erdogant.github.io/docs/imagesc/pypi/pypi_heatmap.html
 
 .. raw:: html
 
    <iframe src="https://erdogant.github.io/docs/d3graph/sprinkler_example/index.html" height="500px" width="1000px", frameBorder="0"></iframe>
 
 
-.. _bnlearn: https://erdogant.github.io/bnlearn/
-.. _hnet: https://erdogant.github.io/hnet/
-.. _distfit: https://erdogant.github.io/distfit/
-.. _Pypi download stats: https://erdogant.github.io/docs/imagesc/pypi/pypi_heatmap.html
