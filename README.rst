@@ -20,4 +20,6 @@ All Repos can be found in the Repositories section. The links in the table are t
   +-----------+--------+-----------+--------+-----------+
 
 
-<iframe src="https://erdogant.github.io/docs/d3graph/sprinkler_example/index.html" height="500px" width="1000px", frameBorder="0"></iframe>
+.. raw:: html
+
+   <iframe src="https://erdogant.github.io/docs/d3graph/sprinkler_example/index.html" height="500px" width="1000px", frameBorder="0"></iframe>
