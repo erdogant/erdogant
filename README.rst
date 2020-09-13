@@ -38,7 +38,7 @@ Find here my `Pypi download stats`_
 
 .. _schematic_overview:
 
-.. figure:: ../docs/figs/pypi_downloads.png
+.. figure:: ./docs/figs/pypi_downloads.png
 
 
 <p align="center">
