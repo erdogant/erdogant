@@ -37,7 +37,10 @@ Find here my `Pypi download stats`_
 .. _Pypi download stats: https://erdogant.github.io/docs/imagesc/pypi/pypi_heatmap.html
 
 .. |pypi_plot| image:: docs/figs/pypi_downloads.png
-
+   :height: 100px
+   :width: 200 px
+   :scale: 50 %
+   
 .. table:: 
    :align: left
 
