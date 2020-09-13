@@ -25,15 +25,10 @@ All Repos can be found in the Repositories section. The links in the table are t
   +--------------+------------------+-----------------+-------------------+-----------+-----------+--------------+     
 
 .. _bnlearn: https://erdogant.github.io/bnlearn/
-
 .. _hnet: https://erdogant.github.io/hnet/
-
 .. _distfit: https://erdogant.github.io/distfit/
-
 .. _classeval: https://erdogant.github.io/classeval/
-
 .. _hgboost: https://erdogant.github.io/hgboost/
-
 .. _findpeaks: https://erdogant.github.io/findpeaks/
 
 
