@@ -23,17 +23,6 @@ All Repos can be found in the Repositories section. The links in the table are t
 .. _distfit: https://erdogant.github.io/distfit/
 
 
-| Machine learning                                   | (Time)Series                                           | Vizualization  | Utils      | Various | API         |
-|-----------------------------------------------------|-------------------------------------------------------|----------------|------------|---------|-------------|
-| clusteval                                           | [findpeaks](https://erdogant.github.io/findpeaks/)    | d3graph        |df2onehot   |irelease |googletrends |
-| [classeval](https://erdogant.github.io/classeval/)  | temporalrank                                          | treeplot       |pypickle    |         |slacki       |
-| [hgboost](https://erdogant.github.io/hgboost/)      | caerus                                                | scatterd       |ismember    |         |             |
-|                                                     | kaplanmeier                                           | imagesc        |            |         |             |
-|                                                     |                                                       | flameplot      |            |         |             |
-|                                                     |                                                       | worldmap       |            |         |             |
-|                                                     |                                                       | colourmap      |            |         |             |
-
-
 Find here my `Pypi download stats`_
 
 .. _Pypi download stats: https://erdogant.github.io/docs/imagesc/pypi/pypi_heatmap.html
