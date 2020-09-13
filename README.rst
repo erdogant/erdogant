@@ -40,7 +40,7 @@ Find here my `Pypi download stats`_
 
 .. table:: 
    :align: left
-   :width: 50px
+   :scale: 50 %
 
    +--------------+
    | |pypi_plot|  |
