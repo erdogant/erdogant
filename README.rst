@@ -4,19 +4,19 @@ All Repos can be found in the Repositories section. The links in the table are t
 
 .. table::
   
-  +--------------+--------+-----------+--------+-----------+
-  | Statistics   | Node 1 | Node 2    | Node 3 | Node 4    |
-  +==============+========+===========+========+===========+
-  | `bnlearn`_   | False  | True      | True   | False     |
-  +--------------+--------+-----------+--------+-----------+
-  | `hnet`_      | False  | False     | False  | True      |
-  +--------------+--------+-----------+--------+-----------+
-  | `distfit`_   | False  | False     | False  | True      |
-  +--------------+--------+-----------+--------+-----------+
-  | pca          | False  | False     | False  | False     |
-  +--------------+--------+-----------+--------+-----------+
-  | thompson     | False  | False     | False  | False     |
-  +--------------+--------+-----------+--------+-----------+
+  +--------------+------------------+-----------+--------+-----------+
+  | Statistics   | Machine learning | Node 2    | Node 3 | Node 4    |
+  +==============+==================+===========+========+===========+
+  | `bnlearn`_   | clusteval        | True      | True   | False     |
+  +--------------+------------------+-----------+--------+-----------+
+  | `hnet`_      | `classeval`_     | False     | False  | True      |
+  +--------------+------------------+-----------+--------+-----------+
+  | `distfit`_   | `hgboost`_       | False     | False  | True      |
+  +--------------+------------------+-----------+--------+-----------+
+  | pca          |                  | False     | False  | False     |
+  +--------------+------------------+-----------+--------+-----------+
+  | thompson     |                  | False     | False  | False     |
+  +--------------+------------------+-----------+--------+-----------+
 
 .. _bnlearn: https://erdogant.github.io/bnlearn/
 
@@ -24,12 +24,16 @@ All Repos can be found in the Repositories section. The links in the table are t
 
 .. _distfit: https://erdogant.github.io/distfit/
 
+.. _classeval: https://erdogant.github.io/classeval/
 
-| Machine learning                                   | (Time)Series                                           | Vizualization  | Utils      | Various | API         |
-|-----------------------------------------------------|-------------------------------------------------------|----------------|------------|---------|-------------|
-| clusteval                                           | [findpeaks](https://erdogant.github.io/findpeaks/)    | d3graph        |df2onehot   |irelease |googletrends |
-| [classeval](https://erdogant.github.io/classeval/)  | temporalrank                                          | treeplot       |pypickle    |         |slacki       |
-| [hgboost](https://erdogant.github.io/hgboost/)      | caerus                                                | scatterd       |ismember    |         |             |
+.. _hgboost: https://erdogant.github.io/hgboost/
+
+
+| (Time)Series                                           | Vizualization  | Utils      | Various | API         |
+|-------------------------------------------------------|----------------|------------|---------|-------------|
+| [findpeaks](https://erdogant.github.io/findpeaks/)    | d3graph        |df2onehot   |irelease |googletrends |
+| temporalrank                                          | treeplot       |pypickle    |         |slacki       |
+| caerus                                                | scatterd       |ismember    |         |             |
 |                                                     | kaplanmeier                                           | imagesc        |            |         |             |
 |                                                     |                                                       | flameplot      |            |         |             |
 |                                                     |                                                       | worldmap       |            |         |             |
