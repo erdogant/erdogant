@@ -38,6 +38,9 @@ Find here my `Pypi download stats`_
 
 .. |pypi_plot| image:: ./docs/figs/pypi_downloads.png
 
+.. image:: ./docs/figs/pypi_downloads.png
+   :width: 600
+
 .. table:: 
    :align: left
 
