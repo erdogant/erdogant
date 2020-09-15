@@ -41,7 +41,6 @@ Find here my `Pypi download stats`_
 
 .. table:: 
    :align: left
-   :width: 400
 
    +--------------+
    | |pypi_plot|  |
