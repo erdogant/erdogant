@@ -53,4 +53,10 @@ Find here my `Pypi download stats`_
 
 .. |benfordslaw| image::  https://img.shields.io/github/issues/erdogant/benfordslaw.svg
    :target: https://github.com/erdogant/benfordslaw/issues
-   
+
+|hnet|
+
+.. |hnet| image::  https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg
+   :target: https://github.com/erdogant/hnet/issues
+
+
