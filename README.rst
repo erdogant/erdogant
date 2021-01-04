@@ -49,4 +49,6 @@ Find here my `Pypi download stats`_
 
 Overview of open issues
 
- .. |issues| image:: https://img.shields.io/github/issues/erdogant/benfordslaw.svg
+.. |pypi_plot| image:: https://img.shields.io/github/issues/erdogant/benfordslaw.svg
+.. table:: 
+   :align: left
