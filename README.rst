@@ -51,6 +51,11 @@ Find here my `Pypi download stats`_
 
 |benfordslaw|
 |hnet|
+|distfit|
+|bnlearn|
+|findpeaks|
+|clusteval|
+|pca|
 
 .. |benfordslaw| image::  https://img.shields.io/github/issues/erdogant/benfordslaw.svg
    :target: https://github.com/erdogant/benfordslaw/issues
