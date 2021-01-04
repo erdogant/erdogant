@@ -46,9 +46,12 @@ Find here my `Pypi download stats`_
    | |pypi_plot|  |
    +--------------+
 
+.. |Substitution Name| image:: https://erdogant.github.io/docs/imagesc/pypi/pypi_downloads.png
+  :width: 200
+  :alt: Alternative text
+  
 
-Overview of open issues
-
+### Overview of open issues
 .. |pypi_plot| image:: https://img.shields.io/github/issues/erdogant/benfordslaw.svg
 .. table:: 
    :align: left
