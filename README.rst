@@ -46,3 +46,7 @@ Find here my `Pypi download stats`_
    | |pypi_plot|  |
    +--------------+
 
+
+Overview of open issues
+
+[![GitHub Open Issues](https://img.shields.io/github/issues/erdogant/benfordslaw.svg)](https://github.com/erdogant/benfordslaw/issues)
