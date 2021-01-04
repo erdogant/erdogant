@@ -47,8 +47,8 @@ Find here my `Pypi download stats`_
    +--------------+
 
 .. |Substitution Name| image:: https://erdogant.github.io/docs/imagesc/pypi/pypi_downloads.png
-  :width: 200
-  :alt: Alternative text
+  :width: 100
+  :alt: pypi_downloads
   
 
 ### Overview of open issues
