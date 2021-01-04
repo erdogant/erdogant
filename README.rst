@@ -47,7 +47,7 @@ Find here my `Pypi download stats`_
    +--------------+
 
 
-### Overview of open issues
+**Overview of open issues**
 
 |benfordslaw|
 |hnet|
@@ -56,6 +56,16 @@ Find here my `Pypi download stats`_
    :target: https://github.com/erdogant/benfordslaw/issues
 .. |hnet| image::  https://img.shields.io/github/issues/erdogant/hnet.svg
    :target: https://github.com/erdogant/hnet/issues
+.. |distfit| image::  https://img.shields.io/github/issues/erdogant/distfit.svg
+   :target: https://github.com/erdogant/distfit/issues
+.. |bnlearn| image::  https://img.shields.io/github/issues/erdogant/bnlearn.svg
+   :target: https://github.com/erdogant/bnlearn/issues
+.. |findpeaks| image::  https://img.shields.io/github/issues/erdogant/findpeaks.svg
+   :target: https://github.com/erdogant/findpeaks/issues
+.. |clusteval| image::  https://img.shields.io/github/issues/erdogant/clusteval.svg
+   :target: https://github.com/erdogant/clusteval/issues
+.. |pca| image::  https://img.shields.io/github/issues/erdogant/pca.svg
+   :target: https://github.com/erdogant/pca/issues
 
 
 
