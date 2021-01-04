@@ -50,13 +50,13 @@ Find here my `Pypi download stats`_
 ### Overview of open issues
 
 |benfordslaw|
+|hnet|
 
 .. |benfordslaw| image::  https://img.shields.io/github/issues/erdogant/benfordslaw.svg
    :target: https://github.com/erdogant/benfordslaw/issues
-
-|hnet|
-
 .. |hnet| image::  https://img.shields.io/github/issues/erdogant/hnet.svg
    :target: https://github.com/erdogant/hnet/issues
+
+
 
 
