@@ -56,7 +56,7 @@ Find here my `Pypi download stats`_
 
 |hnet|
 
-.. |hnet| image::  https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg
+.. |hnet| image::  https://img.shields.io/badge/issues-hnet.svg
    :target: https://github.com/erdogant/hnet/issues
 
 
