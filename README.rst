@@ -49,4 +49,4 @@ Find here my `Pypi download stats`_
 
 Overview of open issues
 
-.. _https://img.shields.io/github/issues/erdogant/benfordslaw.svg): (https://github.com/erdogant/benfordslaw/issues)
+ .. |issues| image:: https://img.shields.io/github/issues/erdogant/benfordslaw.svg
