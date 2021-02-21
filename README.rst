@@ -49,13 +49,19 @@ Find here my `Pypi download stats`_
 
 **Overview of open issues**
 
-|benfordslaw|
+|bnlearn|
 |hnet|
 |distfit|
-|bnlearn|
-|findpeaks|
-|clusteval|
 |pca|
+|benfordslaw|
+|clusteval|
+|classeval|
+|hgboost|
+|findpeaks|
+|d3graph|
+|d3heatmap|
+|treeplot|
+|kaplanmeier|
 
 .. |bnlearn| image::  https://img.shields.io/github/issues/erdogant/bnlearn.svg
    :target: https://github.com/erdogant/bnlearn/issues
@@ -67,17 +73,14 @@ Find here my `Pypi download stats`_
    :target: https://github.com/erdogant/pca/issues
 .. |benfordslaw| image::  https://img.shields.io/github/issues/erdogant/benfordslaw.svg
    :target: https://github.com/erdogant/benfordslaw/issues
-
 .. |clusteval| image::  https://img.shields.io/github/issues/erdogant/clusteval.svg
    :target: https://github.com/erdogant/clusteval/issues
 .. |classeval| image::  https://img.shields.io/github/issues/erdogant/classeval.svg
    :target: https://github.com/erdogant/classeval/issues
 .. |hgboost| image::  https://img.shields.io/github/issues/erdogant/hgboost.svg
    :target: https://github.com/erdogant/hgboost/issues
-
 .. |findpeaks| image::  https://img.shields.io/github/issues/erdogant/findpeaks.svg
    :target: https://github.com/erdogant/findpeaks/issues
-
 .. |d3graph| image::  https://img.shields.io/github/issues/erdogant/d3graph.svg
    :target: https://github.com/erdogant/d3graph/issues
 .. |d3heatmap| image::  https://img.shields.io/github/issues/erdogant/d3heatmap.svg
