@@ -57,20 +57,35 @@ Find here my `Pypi download stats`_
 |clusteval|
 |pca|
 
-.. |benfordslaw| image::  https://img.shields.io/github/issues/erdogant/benfordslaw.svg
-   :target: https://github.com/erdogant/benfordslaw/issues
+.. |bnlearn| image::  https://img.shields.io/github/issues/erdogant/bnlearn.svg
+   :target: https://github.com/erdogant/bnlearn/issues
 .. |hnet| image::  https://img.shields.io/github/issues/erdogant/hnet.svg
    :target: https://github.com/erdogant/hnet/issues
 .. |distfit| image::  https://img.shields.io/github/issues/erdogant/distfit.svg
    :target: https://github.com/erdogant/distfit/issues
-.. |bnlearn| image::  https://img.shields.io/github/issues/erdogant/bnlearn.svg
-   :target: https://github.com/erdogant/bnlearn/issues
-.. |findpeaks| image::  https://img.shields.io/github/issues/erdogant/findpeaks.svg
-   :target: https://github.com/erdogant/findpeaks/issues
-.. |clusteval| image::  https://img.shields.io/github/issues/erdogant/clusteval.svg
-   :target: https://github.com/erdogant/clusteval/issues
 .. |pca| image::  https://img.shields.io/github/issues/erdogant/pca.svg
    :target: https://github.com/erdogant/pca/issues
+.. |benfordslaw| image::  https://img.shields.io/github/issues/erdogant/benfordslaw.svg
+   :target: https://github.com/erdogant/benfordslaw/issues
+
+.. |clusteval| image::  https://img.shields.io/github/issues/erdogant/clusteval.svg
+   :target: https://github.com/erdogant/clusteval/issues
+.. |classeval| image::  https://img.shields.io/github/issues/erdogant/classeval.svg
+   :target: https://github.com/erdogant/classeval/issues
+.. |hgboost| image::  https://img.shields.io/github/issues/erdogant/hgboost.svg
+   :target: https://github.com/erdogant/hgboost/issues
+
+.. |findpeaks| image::  https://img.shields.io/github/issues/erdogant/findpeaks.svg
+   :target: https://github.com/erdogant/findpeaks/issues
+
+.. |d3graph| image::  https://img.shields.io/github/issues/erdogant/d3graph.svg
+   :target: https://github.com/erdogant/d3graph/issues
+.. |d3heatmap| image::  https://img.shields.io/github/issues/erdogant/d3heatmap.svg
+   :target: https://github.com/erdogant/d3heatmap/issues
+.. |treeplot| image::  https://img.shields.io/github/issues/erdogant/treeplot.svg
+   :target: https://github.com/erdogant/treeplot/issues
+.. |kaplanmeier| image::  https://img.shields.io/github/issues/erdogant/kaplanmeier.svg
+   :target: https://github.com/erdogant/kaplanmeier/issues
 
 
 
