@@ -62,6 +62,7 @@ Find here my `Pypi download stats`_
 |d3heatmap|
 |treeplot|
 |kaplanmeier|
+|ismember|
 
 .. |bnlearn| image::  https://img.shields.io/github/issues/erdogant/bnlearn.svg
    :target: https://github.com/erdogant/bnlearn/issues
@@ -89,6 +90,8 @@ Find here my `Pypi download stats`_
    :target: https://github.com/erdogant/treeplot/issues
 .. |kaplanmeier| image::  https://img.shields.io/github/issues/erdogant/kaplanmeier.svg
    :target: https://github.com/erdogant/kaplanmeier/issues
+.. |ismember| image::  https://img.shields.io/github/issues/erdogant/ismember.svg
+   :target: https://github.com/erdogant/ismember/issues
 
 
 
