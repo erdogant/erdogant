@@ -94,6 +94,3 @@ Find here my `Pypi download stats`_
    :target: https://github.com/erdogant/ismember/issues
 
 
-
-![erdogant github stats](https://github-readme-stats.vercel.app/api?username=erdogant)
-
