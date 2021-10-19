@@ -93,4 +93,5 @@ Find here my `Pypi download stats`_
 .. |ismember| image::  https://img.shields.io/github/issues/erdogant/ismember.svg
    :target: https://github.com/erdogant/ismember/issues
 
-![erdogant's GitHub stats](https://github-readme-stats.vercel.app/api?username=erdogant&count_private=true)
+[![erdogant's GitHub stats](https://github-readme-stats.vercel.app/api?username=erdogant)](https://github.com/anuraghazra/github-readme-stats)
+
