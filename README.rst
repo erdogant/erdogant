@@ -13,7 +13,7 @@ All Repos can be found in the Repositories section. The links in the table are t
   +--------------+------------------+-----------------+-------------------+-----------+--------------+     
   | `distfit`_   | `hgboost`_       | caerus          | treeplot          | ismember  |              |                  
   +--------------+------------------+-----------------+-------------------+-----------+--------------+    
-  | pca          |                  |                 | kaplanmeier       | irelease  |              |                
+  | pca          | `clustimage`_    |                 | kaplanmeier       | irelease  |              |                
   +--------------+------------------+-----------------+-------------------+-----------+--------------+    
   | thompson     |                  |                 | flameplot         | pypiplot  |              |                  
   +--------------+------------------+-----------------+-------------------+-----------+--------------+    
@@ -23,15 +23,16 @@ All Repos can be found in the Repositories section. The links in the table are t
   +--------------+------------------+-----------------+-------------------+-----------+--------------+    
   |              |                  |                 | imagesc           |           |              |                  
   +--------------+------------------+-----------------+-------------------+-----------+--------------+   
-  |              |                  |                 | scatterd          |           |              |                 
-  +--------------+------------------+-----------------+-------------------+-----------+--------------+   
-
+  |              |                  |                 | scatterd          |           |              | 
+  +--------------+------------------+-----------------+-------------------+-----------+--------------+ 
+  
 .. _bnlearn: https://erdogant.github.io/bnlearn/
 .. _hnet: https://erdogant.github.io/hnet/
 .. _distfit: https://erdogant.github.io/distfit/
 .. _classeval: https://erdogant.github.io/classeval/
 .. _hgboost: https://erdogant.github.io/hgboost/
 .. _findpeaks: https://erdogant.github.io/findpeaks/
+.. _clustimage: https://erdogant.github.io/clustimage/
 
 
 Find here my `Pypi download stats`_
@@ -73,11 +74,13 @@ Find here my `Pypi download stats`_
 .. |pca| image::  https://img.shields.io/github/issues/erdogant/pca.svg
    :target: https://github.com/erdogant/pca/issues
 .. |benfordslaw| image::  https://img.shields.io/github/issues/erdogant/benfordslaw.svg
-   :target: https://github.com/erdogant/benfordslaw/issues
+   :target: https://github.com/erdogant/benfordslaw/issue
 .. |clusteval| image::  https://img.shields.io/github/issues/erdogant/clusteval.svg
-   :target: https://github.com/erdogant/clusteval/issues
+   :target: https://github.com/erdogant/clusteval/issue
 .. |classeval| image::  https://img.shields.io/github/issues/erdogant/classeval.svg
    :target: https://github.com/erdogant/classeval/issues
+.. |clustimage| image::  https://img.shields.io/github/issues/erdogant/clustimage.svg
+   :target: https://github.com/erdogant/clustimage/issues
 .. |hgboost| image::  https://img.shields.io/github/issues/erdogant/hgboost.svg
    :target: https://github.com/erdogant/hgboost/issues
 .. |findpeaks| image::  https://img.shields.io/github/issues/erdogant/findpeaks.svg
@@ -92,18 +95,4 @@ Find here my `Pypi download stats`_
    :target: https://github.com/erdogant/kaplanmeier/issues
 .. |ismember| image::  https://img.shields.io/github/issues/erdogant/ismember.svg
    :target: https://github.com/erdogant/ismember/issues
-
-
-### Analytics ⚙️
-
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeroenKnoops&layout=compact&count_private=true)
-
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=JeroenKnoops&count_private=true&show_icons=true)
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=JeroenKnoops&hide_border=true)
-
-<p align="center">
-  <img width="63%" src="profile-summary-card-output/github/0-profile-details.svg" />
-  <img width="35%" src="profile-summary-card-output/github/4-productive-time.svg" />
-</p>
 
