@@ -1,6 +1,6 @@
 **A structured list of my repo's**
 
-All Repos can be found in the Repositories section. The links in the table are to the API (Sphinx) documentation.
+All Repos can be found in the Repositories section. If Sphinx pages are available, the link will directly go to the documenation pages.
 
 .. table::
   
