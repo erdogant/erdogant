@@ -7,15 +7,15 @@ All Repos can be found in the Repositories section. The links in the table are t
   +--------------+------------------+-----------------+-------------------+-----------+--------------+    
   | Statistics   | Machine learning | (Time)Series    | Vizualization     | Utils     | API          |    
   +==============+==================+=================+===================+===========+==============+     
-  | `bnlearn`_   | clusteval        | `findpeaks`_    | d3graph           | df2onehot | googletrends |     
+  | `bnlearn`_   | `clusteval`_     | `findpeaks`_    | d3graph           | df2onehot | googletrends |     
   +--------------+------------------+-----------------+-------------------+-----------+--------------+   
-  | `hnet`_      | `classeval`_     | temporalrank    | d3heatmap         | pypickle  | slacki       |     
+  | `hnet`_      | `classeval`_     | `temporalrank`_ | d3heatmap         | pypickle  | slacki       |     
   +--------------+------------------+-----------------+-------------------+-----------+--------------+     
-  | `distfit`_   | `hgboost`_       | caerus          | treeplot          | ismember  |              |                  
+  | `distfit`_   | `hgboost`_       | `caerus`_       | treeplot          | ismember  |              |                  
   +--------------+------------------+-----------------+-------------------+-----------+--------------+    
-  | pca          | `clustimage`_    |                 | kaplanmeier       | irelease  |              |                
+  | `pca`_       | `clustimage`_    |                 | kaplanmeier       | irelease  |              |                
   +--------------+------------------+-----------------+-------------------+-----------+--------------+    
-  | thompson     |                  |                 | flameplot         | pypiplot  |              |                  
+  | `thompson`_  |                  |                 | flameplot         | pypiplot  |              |                  
   +--------------+------------------+-----------------+-------------------+-----------+--------------+    
   |              |                  |                 | worldmap          |           |              |                  
   +--------------+------------------+-----------------+-------------------+-----------+--------------+    
@@ -33,6 +33,29 @@ All Repos can be found in the Repositories section. The links in the table are t
 .. _hgboost: https://erdogant.github.io/hgboost/
 .. _findpeaks: https://erdogant.github.io/findpeaks/
 .. _clustimage: https://erdogant.github.io/clustimage/
+
+.. _pca: https://github.com/erdogant/pca
+.. _thompson: https://github.com/erdogant/thompson
+.. _clusteval: https://github.com/erdogant/clusteval
+.. _temporalrank: https://github.com/erdogant/temporalrank
+.. _caerus: https://github.com/erdogant/caerus
+
+.. _d3graph: https://github.com/erdogant/d3graph
+.. _d3heatmap: https://github.com/erdogant/d3heatmap
+.. _treeplot: https://github.com/erdogant/treeplot
+.. _kaplanmeier: https://github.com/erdogant/kaplanmeier
+.. _flameplot: https://github.com/erdogant/flameplot
+.. _worldmap: https://github.com/erdogant/worldmap
+.. _colourmap: https://github.com/erdogant/colourmap
+.. _imagesc: https://github.com/erdogant/imagesc
+.. _scatterd: https://github.com/erdogant/scatterd
+.. _df2onehot: https://github.com/erdogant/df2onehot
+.. _pypickle: https://github.com/erdogant/pypickle
+.. _ismember: https://github.com/erdogant/ismember
+.. _irelease: https://github.com/erdogant/irelease
+.. _pypiplot: https://github.com/erdogant/pypiplot
+.. _googletrends: https://github.com/erdogant/googletrends
+.. _slacki: https://github.com/erdogant/slacki
 
 
 Find here my `Pypi download stats`_
