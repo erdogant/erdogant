@@ -93,4 +93,17 @@ Find here my `Pypi download stats`_
 .. |ismember| image::  https://img.shields.io/github/issues/erdogant/ismember.svg
    :target: https://github.com/erdogant/ismember/issues
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=erdogant&count_private=true&show_icons=true)
+
+### Analytics ⚙️
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeroenKnoops&layout=compact&count_private=true)
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=JeroenKnoops&count_private=true&show_icons=true)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=JeroenKnoops&hide_border=true)
+
+<p align="center">
+  <img width="63%" src="profile-summary-card-output/github/0-profile-details.svg" />
+  <img width="35%" src="profile-summary-card-output/github/4-productive-time.svg" />
+</p>
+
