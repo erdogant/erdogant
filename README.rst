@@ -15,7 +15,7 @@ All Repos can be found in the Repositories section. If Sphinx pages are availabl
   +--------------+------------------+-----------------+-------------------+--------------+-----------------+       
   | `pca`_       | `clustimage`_    |                 | `kaplanmeier`_    | `irelease`_  |                 |
   +--------------+------------------+-----------------+-------------------+--------------+-----------------+    
-  | `thompson`_  |                  |                 | `flameplot`_      | `pypiplot`_  |                 |                  
+  | `thompson`_  | `undouble`_      |                 | `flameplot`_      | `pypiplot`_  |                 |                  
   +--------------+------------------+-----------------+-------------------+--------------+-----------------+    
   |              |                  |                 | `worldmap`_       |              |                 |                  
   +--------------+------------------+-----------------+-------------------+--------------+-----------------+    
@@ -33,6 +33,7 @@ All Repos can be found in the Repositories section. If Sphinx pages are availabl
 .. _hgboost: https://erdogant.github.io/hgboost/
 .. _findpeaks: https://erdogant.github.io/findpeaks/
 .. _clustimage: https://erdogant.github.io/clustimage/
+.. _undouble: https://erdogant.github.io/undouble/
 
 .. _pca: https://github.com/erdogant/pca
 .. _thompson: https://github.com/erdogant/thompson
@@ -87,6 +88,7 @@ Find here my `Pypi download stats`_
 |treeplot|
 |kaplanmeier|
 |ismember|
+|undouble|
 
 .. |bnlearn| image::  https://img.shields.io/github/issues/erdogant/bnlearn.svg
    :target: https://github.com/erdogant/bnlearn/issues
@@ -118,4 +120,6 @@ Find here my `Pypi download stats`_
    :target: https://github.com/erdogant/kaplanmeier/issues
 .. |ismember| image::  https://img.shields.io/github/issues/erdogant/ismember.svg
    :target: https://github.com/erdogant/ismember/issues
+.. |undouble| image::  https://img.shields.io/github/issues/erdogant/undouble.svg
+   :target: https://github.com/erdogant/undouble/issues
 
