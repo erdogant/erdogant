@@ -33,7 +33,7 @@ All Repos can be found in the Repositories section. If Sphinx pages are availabl
 .. _hgboost: https://erdogant.github.io/hgboost/
 .. _findpeaks: https://erdogant.github.io/findpeaks/
 .. _clustimage: https://erdogant.github.io/clustimage/
-.. _undouble: https://github.com/erdogant/undouble
+.. _undouble:  https://erdogant.github.io/undouble/
 
 .. _pca: https://github.com/erdogant/pca
 .. _thompson: https://github.com/erdogant/thompson
