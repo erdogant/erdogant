@@ -41,7 +41,7 @@ All Repos can be found in the Repositories section. If Sphinx pages are availabl
 .. _temporalrank: https://github.com/erdogant/temporalrank
 .. _caerus: https://github.com/erdogant/caerus
 
-.. _d3graph: https://github.com/erdogant/d3graph
+.. _d3graph: https://erdogant.github.io/d3graph/
 .. _d3heatmap: https://github.com/erdogant/d3heatmap
 .. _treeplot: https://github.com/erdogant/treeplot
 .. _kaplanmeier: https://github.com/erdogant/kaplanmeier
