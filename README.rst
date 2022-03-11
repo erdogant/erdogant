@@ -34,14 +34,16 @@ All Repos can be found in the Repositories section. If Sphinx pages are availabl
 .. _findpeaks: https://erdogant.github.io/findpeaks/
 .. _clustimage: https://erdogant.github.io/clustimage/
 .. _undouble:  https://erdogant.github.io/undouble/
+.. _clusteval: https://erdogant.github.io/clusteval
+.. _pypickle: https://erdogant.github.io/pypickle
+.. _ismember: https://erdogant.github.io/ismember
+.. _d3graph: https://erdogant.github.io/d3graph/
+.. _pca: https://erdogant.github.io/pca
 
-.. _pca: https://github.com/erdogant/pca
 .. _thompson: https://github.com/erdogant/thompson
-.. _clusteval: https://github.com/erdogant/clusteval
 .. _temporalrank: https://github.com/erdogant/temporalrank
 .. _caerus: https://github.com/erdogant/caerus
 
-.. _d3graph: https://erdogant.github.io/d3graph/
 .. _d3heatmap: https://github.com/erdogant/d3heatmap
 .. _treeplot: https://github.com/erdogant/treeplot
 .. _kaplanmeier: https://github.com/erdogant/kaplanmeier
@@ -51,8 +53,6 @@ All Repos can be found in the Repositories section. If Sphinx pages are availabl
 .. _imagesc: https://github.com/erdogant/imagesc
 .. _scatterd: https://github.com/erdogant/scatterd
 .. _df2onehot: https://github.com/erdogant/df2onehot
-.. _pypickle: https://github.com/erdogant/pypickle
-.. _ismember: https://github.com/erdogant/ismember
 .. _irelease: https://github.com/erdogant/irelease
 .. _pypiplot: https://github.com/erdogant/pypiplot
 .. _googletrends: https://github.com/erdogant/googletrends
