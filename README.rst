@@ -17,7 +17,7 @@ All Repos can be found in the Repositories section. If Sphinx pages are availabl
   +--------------+------------------+-----------------+-------------------+--------------+-----------------+    
   | `thompson`_  | `undouble`_      |                 | `flameplot`_      | `pypiplot`_  |                 |                  
   +--------------+------------------+-----------------+-------------------+--------------+-----------------+    
-  |              |                  |                 | `worldmap`_       |              |                 |                  
+  |`benfordslaw`_|                  |                 | `worldmap`_       |              |                 |                  
   +--------------+------------------+-----------------+-------------------+--------------+-----------------+    
   |              |                  |                 | `colourmap`_      |              |                 |                  
   +--------------+------------------+-----------------+-------------------+--------------+-----------------+    
@@ -39,8 +39,10 @@ All Repos can be found in the Repositories section. If Sphinx pages are availabl
 .. _ismember: https://erdogant.github.io/ismember
 .. _d3graph: https://erdogant.github.io/d3graph/
 .. _pca: https://erdogant.github.io/pca
+.. _thompson: https://erdogant.github.io/thompson
+.. _benfordaw: https://erdogant.github.io/benfordaw
+.. _colourmap: https://erdogant.github.io/colourmap
 
-.. _thompson: https://github.com/erdogant/thompson
 .. _temporalrank: https://github.com/erdogant/temporalrank
 .. _caerus: https://github.com/erdogant/caerus
 
@@ -49,7 +51,6 @@ All Repos can be found in the Repositories section. If Sphinx pages are availabl
 .. _kaplanmeier: https://github.com/erdogant/kaplanmeier
 .. _flameplot: https://github.com/erdogant/flameplot
 .. _worldmap: https://github.com/erdogant/worldmap
-.. _colourmap: https://github.com/erdogant/colourmap
 .. _imagesc: https://github.com/erdogant/imagesc
 .. _scatterd: https://github.com/erdogant/scatterd
 .. _df2onehot: https://github.com/erdogant/df2onehot
