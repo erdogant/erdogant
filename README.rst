@@ -80,6 +80,8 @@ Find here my `Pypi download stats`_
 |distfit|
 |pca|
 |benfordslaw|
+|clustimage|
+|undouble|
 |clusteval|
 |classeval|
 |hgboost|
@@ -89,7 +91,6 @@ Find here my `Pypi download stats`_
 |treeplot|
 |kaplanmeier|
 |ismember|
-|undouble|
 
 .. |bnlearn| image::  https://img.shields.io/github/issues/erdogant/bnlearn.svg
    :target: https://github.com/erdogant/bnlearn/issues
@@ -100,13 +101,15 @@ Find here my `Pypi download stats`_
 .. |pca| image::  https://img.shields.io/github/issues/erdogant/pca.svg
    :target: https://github.com/erdogant/pca/issues
 .. |benfordslaw| image::  https://img.shields.io/github/issues/erdogant/benfordslaw.svg
-   :target: https://github.com/erdogant/benfordslaw/issue
+   :target: https://github.com/erdogant/benfordslaw/issues
 .. |clusteval| image::  https://img.shields.io/github/issues/erdogant/clusteval.svg
-   :target: https://github.com/erdogant/clusteval/issue
+   :target: https://github.com/erdogant/clusteval/issues
 .. |classeval| image::  https://img.shields.io/github/issues/erdogant/classeval.svg
    :target: https://github.com/erdogant/classeval/issues
 .. |clustimage| image::  https://img.shields.io/github/issues/erdogant/clustimage.svg
    :target: https://github.com/erdogant/clustimage/issues
+.. |undouble| image::  https://img.shields.io/github/issues/erdogant/undouble.svg
+   :target: https://github.com/erdogant/undouble/issues
 .. |hgboost| image::  https://img.shields.io/github/issues/erdogant/hgboost.svg
    :target: https://github.com/erdogant/hgboost/issues
 .. |findpeaks| image::  https://img.shields.io/github/issues/erdogant/findpeaks.svg
@@ -121,6 +124,4 @@ Find here my `Pypi download stats`_
    :target: https://github.com/erdogant/kaplanmeier/issues
 .. |ismember| image::  https://img.shields.io/github/issues/erdogant/ismember.svg
    :target: https://github.com/erdogant/ismember/issues
-.. |undouble| image::  https://img.shields.io/github/issues/erdogant/undouble.svg
-   :target: https://github.com/erdogant/undouble/issues
 
