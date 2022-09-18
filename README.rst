@@ -25,7 +25,10 @@ All Repos can be found in the Repositories section. If Sphinx pages are availabl
   +----------------+------------------+-----------------+-------------------+--------------+-----------------+   
   |                |                  |                 | `scatterd`_       |              |                 | 
   +----------------+------------------+-----------------+-------------------+--------------+-----------------+ 
+  |                |                  |                 | `d3blocks`_       |              |                 | 
+  +----------------+------------------+-----------------+-------------------+--------------+-----------------+ 
   
+    
 .. _bnlearn: https://erdogant.github.io/bnlearn/
 .. _hnet: https://erdogant.github.io/hnet/
 .. _distfit: https://erdogant.github.io/distfit/
@@ -53,6 +56,7 @@ All Repos can be found in the Repositories section. If Sphinx pages are availabl
 .. _worldmap: https://github.com/erdogant/worldmap
 .. _imagesc: https://github.com/erdogant/imagesc
 .. _scatterd: https://github.com/erdogant/scatterd
+.. _d3blocks: https://d3blocks.github.io/d3blocks/
 .. _df2onehot: https://github.com/erdogant/df2onehot
 .. _irelease: https://github.com/erdogant/irelease
 .. _pypiplot: https://github.com/erdogant/pypiplot
@@ -75,6 +79,7 @@ Find here my `Pypi download stats`_
 
 **Overview of open issues**
 
+|d3blocks|
 |bnlearn|
 |hnet|
 |distfit|
@@ -92,6 +97,8 @@ Find here my `Pypi download stats`_
 |kaplanmeier|
 |ismember|
 
+.. |d3blocks| image::  https://img.shields.io/github/issues/d3blocks/d3blocks.svg
+   :target: https://github.com/d3blocks/d3blocks/issues
 .. |bnlearn| image::  https://img.shields.io/github/issues/erdogant/bnlearn.svg
    :target: https://github.com/erdogant/bnlearn/issues
 .. |hnet| image::  https://img.shields.io/github/issues/erdogant/hnet.svg
