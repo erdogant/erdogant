@@ -17,7 +17,7 @@ All Repos can be found in the Repositories section. If Sphinx pages are availabl
   +----------------+------------------+-----------------+-------------------+--------------+-----------------+    
   | `thompson`_    | `undouble`_      |                 | `flameplot`_      | `pypiplot`_  |                 |                  
   +----------------+------------------+-----------------+-------------------+--------------+-----------------+    
-  | `benfordslaw`_ |                  |                 | `worldmap`_       |              |                 |                  
+  | `benfordslaw`_ |                  |                 | `worldmap`_       |  `dicter`_   |                 |                  
   +----------------+------------------+-----------------+-------------------+--------------+-----------------+    
   |                |                  |                 | `colourmap`_      |              |                 |                  
   +----------------+------------------+-----------------+-------------------+--------------+-----------------+    
@@ -28,7 +28,7 @@ All Repos can be found in the Repositories section. If Sphinx pages are availabl
   |                |                  |                 | `d3blocks`_       |              |                 | 
   +----------------+------------------+-----------------+-------------------+--------------+-----------------+ 
   
-    
+ .. _dicter: https://erdogant.github.io/dicter/
 .. _bnlearn: https://erdogant.github.io/bnlearn/
 .. _hnet: https://erdogant.github.io/hnet/
 .. _distfit: https://erdogant.github.io/distfit/
@@ -96,6 +96,8 @@ Find here my `Pypi download stats`_
 |treeplot|
 |kaplanmeier|
 |ismember|
+|dicter|
+
 
 .. |d3blocks| image::  https://img.shields.io/github/issues/d3blocks/d3blocks.svg
    :target: https://github.com/d3blocks/d3blocks/issues
@@ -131,4 +133,6 @@ Find here my `Pypi download stats`_
    :target: https://github.com/erdogant/kaplanmeier/issues
 .. |ismember| image::  https://img.shields.io/github/issues/erdogant/ismember.svg
    :target: https://github.com/erdogant/ismember/issues
+|dicter| image::  https://img.shields.io/github/issues/erdogant/dicter.svg
+   :target: https://github.com/erdogant/dicter/issues
 
