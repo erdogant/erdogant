@@ -28,7 +28,8 @@ All Repos can be found in the Repositories section. If Sphinx pages are availabl
   |                |                  |                 | `d3blocks`_       |              |                 | 
   +----------------+------------------+-----------------+-------------------+--------------+-----------------+ 
   
- .. _dicter: https://erdogant.github.io/dicter/
+
+.. _dicter: https://erdogant.github.io/dicter/
 .. _bnlearn: https://erdogant.github.io/bnlearn/
 .. _hnet: https://erdogant.github.io/hnet/
 .. _distfit: https://erdogant.github.io/distfit/
@@ -133,6 +134,6 @@ Find here my `Pypi download stats`_
    :target: https://github.com/erdogant/kaplanmeier/issues
 .. |ismember| image::  https://img.shields.io/github/issues/erdogant/ismember.svg
    :target: https://github.com/erdogant/ismember/issues
-|dicter| image::  https://img.shields.io/github/issues/erdogant/dicter.svg
+.. |dicter| image::  https://img.shields.io/github/issues/erdogant/dicter.svg
    :target: https://github.com/erdogant/dicter/issues
 
