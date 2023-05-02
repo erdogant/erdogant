@@ -74,13 +74,6 @@ Find here my `Pypi download stats`_
 
 .. _Pypi download stats: https://erdogant.github.io/docs/imagesc/pypi/pypi_heatmap.html
 
-.. |pypi_plot| image:: D:\REPOS\erdogant.github.io\docs\star-history-2023315.png?
-.. table:: 
-   :align: left
-
-   +--------------+
-   | |pypi_plot|  |
-   +--------------+
 
 
 
