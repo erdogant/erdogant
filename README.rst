@@ -2,10 +2,6 @@ Hi there. I'm Erdogan 👋
 
 I ❤️ to learn everyday and I am currently sharing a little bit of my knowledge to the world through my blogs and open source github projects.
 
-Connect with me on:
-🏢 LinkedIn
-💡 Medium
-
 
 **A structured list of my repo's**
 
