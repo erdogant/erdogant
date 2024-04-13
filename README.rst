@@ -1,11 +1,11 @@
 Hi there. I'm Erdogan 👋
 
-I ❤️ to learn everyday and I am currently sharing a little bit of my knowledge to the world through my blogs and open source github projects.
+I ❤️ to learn every day and I am currently sharing my knowledge with the world through my blogs and open source GitHub projects.
 
 
-**A structured list of my repo's**
+**A structured list of my repos**
 
-All Repos can be found in the Repositories section. If Sphinx pages are available, the link will directly go to the documenation pages.
+All Repos can be found in the Repositories section. If Sphinx pages are available, the link will directly go to the documentation pages.
 
 .. table::
   
