@@ -1,6 +1,6 @@
 Hi there! I am sharing my knowledge with the world through my blogs and open-source GitHub projects.
 
-Your ❤️ is important to keep maintaining my packages. You can support in various ways, have a look at the `Sponsor`_ page. Report bugs, and issues or help out with developing new features! If you don't have the time to help or are still learning, you can also take a `Medium`_ Membership using my referral link to keep reading all my hands-on blogs. If you also don't need that, there is always the `Coffee`_ :-) Cheers!
+Your ❤️ is important to keep maintaining my packages. There are millions of downloads already and to keep you happy, I often need to fix the incremental updates that are in the requirements. This can eat up my entire weekend and evenings! Yes, I do this for free and in my free time! So I need your support, and there are various ways you can help. More details are on the `Sponsor`_ page. You can report bugs/ issues, or even better help out with fixing bugts or developing new features! If you don't have the time or maybe your are still learning, you can also take a `Medium`_ Membership using my referral link to keep reading all my hands-on blogs. If you also don't need that, there is always the `Coffee`_ :-) Cheers!
 
 |coffee_pic|
 
