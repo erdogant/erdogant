@@ -1,6 +1,4 @@
-Hi there. I'm Erdogan 👋
-
-I ❤️ to learn every day and I am currently sharing my knowledge with the world through my blogs and open source GitHub projects.
+Hi there! I ❤️ to learn every day and I am sharing my knowledge with the world through my blogs and open-source GitHub projects.
 
 
 **A structured list of my repos**
