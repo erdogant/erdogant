@@ -1,4 +1,18 @@
-Hi there! I ❤️ to learn every day and I am sharing my knowledge with the world through my blogs and open-source GitHub projects.
+Hi there! I am sharing my knowledge with the world through my blogs and open-source GitHub projects.
+
+Your ❤️ is important to keep maintaining my packages. You can support in various ways, have a look at the `Sponsor`_ page. Report bugs, and issues or help out with developing new features! If you don't have the time to help or are still learning, you can also take a `Medium`_ Membership using my referral link to keep reading all my hands-on blogs. If you also don't need that, there is always the `Coffee`_ :-) Cheers!
+
+|coffee_pic|
+
+.. |coffee_pic| image::  https://cdn.ko-fi.com/cdn/kofi1.png?v=3
+   :target: https://www.buymeacoffee.com/erdogant
+   :height: 36
+   :style: border:0px;height:36px;
+   :alt: Buy Me a Coffee at ko-fi.com
+
+.. _Medium: https://erdogant.medium.com/
+.. _Sponsor: https://erdogant.github.io/pca/pages/html/Documentation.html
+.. _Coffee: https://www.buymeacoffee.com/erdogant
 
 
 **A structured list of my repos**
@@ -20,7 +34,7 @@ All Repos can be found in the Repositories section. If Sphinx pages are availabl
   +----------------+------------------+-----------------+-------------------+--------------+-----------------+    
   | `thompson`_    | `undouble`_      |                 | `flameplot`_      | `pypiplot`_  |                 |                  
   +----------------+------------------+-----------------+-------------------+--------------+-----------------+    
-  | `benfordslaw`_ |                  |                 | `worldmap`_       |  `dicter`_   |                 |                  
+  | `benfordslaw`_ |                  |                 | `worldmap`_       | `dicter`_    |                 |                  
   +----------------+------------------+-----------------+-------------------+--------------+-----------------+    
   |                |                  |                 | `colourmap`_      |              |                 |                  
   +----------------+------------------+-----------------+-------------------+--------------+-----------------+    
