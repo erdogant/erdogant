@@ -1,6 +1,6 @@
 **Hi there! I am sharing my knowledge with the world through my blogs and open-source GitHub projects.**
 
-Your ❤️ is important to keep maintaining my packages. It is awsome that there are readily millions of downloads but to keep the libraries alive, I often need to make all kinds of fixes. This can eat up my entire weekend and evenings. Yes, I do this for free and in my free time! There are various ways you can help. You can report bugs/ issues, or even better help out with fixing bugs or maybe adding new features! If you don't have the time or maybe you are still learning, you can also take a `Medium`_ Membership using my referral link to keep reading all my hands-on blogs and learn more :-) If you don't need that, there is always an easy way with `Coffee`_ :-) Cheers!
+Your help is important to keep maintaining my packages. It is awsome that there are readily millions of downloads but to keep the libraries alive, I often need to make all kinds of fixes. This can eat up my entire weekend and evenings. Yes, I do this for free and in my free time! There are various ways you can help. You can report bugs/ issues, or even better help out with fixing bugs or maybe adding new features! If you don't have the time or maybe you are still learning, you can also take a `Medium`_ Membership using my referral link to keep reading all my hands-on blogs and learn more :-) If you don't need that, there is always an easy way with `Coffee`_ :-) Cheers!
 
 |coffee_pic|
 
