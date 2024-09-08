@@ -1,14 +1,9 @@
-**Hi there! I am sharing my knowledge with the world through my blogs and open-source GitHub projects.**
+**Hi There!**
 
-Your help is important to keep maintaining my packages. It is awsome that there are readily millions of downloads but to keep the libraries alive, I often need to make all kinds of fixes. This can eat up my entire weekend and evenings. Yes, I do this for free and in my free time! There are various ways you can help. You can report bugs/ issues, or even better help out with fixing bugs or maybe adding new features! If you don't have the time or maybe you are still learning, you can also take a `Medium`_ Membership using my referral link to keep reading all my hands-on blogs and learn more :-) If you don't need that, there is always an easy way with `Coffee`_ :-) Cheers!
+Welcome to my GitHub repo! If you find any bugs are other annoying stuff, let me know or post it on the issue pages. I will try to respond but I do this for free and in my free time! Sometimes a single bug can eat up my entire weekend and evenings but it is worth the trouble because I am really happy that there are hundreds of thousands of downloads yearly!
 
-|coffee_pic|
+Your help is very appreciated! There are various ways you can help. You can report bugs/ issues, or even better help out with fixing bugs or maybe adding new features! If you don't have the time or maybe you are still learning, you can also take a `Medium`_ Membership using my referral link to keep reading all my hands-on blogs and learn more :-) If you don't need that, there is always an easy way with `Coffee`_ :-) Cheers!
 
-.. |coffee_pic| image::  https://cdn.ko-fi.com/cdn/kofi1.png?v=3
-   :target: https://www.buymeacoffee.com/erdogant
-   :height: 36
-   :style: border:0px;height:36px;
-   :alt: Buy Me a Coffee at ko-fi.com
 
 .. _Medium: https://erdogant.medium.com/
 .. _Sponsor: https://erdogant.github.io/pca/pages/html/Documentation.html
@@ -87,6 +82,13 @@ Find here my `Pypi download stats`_
 .. _Pypi download stats: https://erdogant.github.io/docs/imagesc/pypi/pypi_heatmap.html
 
 
+|coffee_pic|
+
+.. |coffee_pic| image::  https://cdn.ko-fi.com/cdn/kofi1.png?v=3
+   :target: https://www.buymeacoffee.com/erdogant
+   :height: 36
+   :style: border:0px;height:36px;
+   :alt: Buy Me a Coffee at ko-fi.com
 
 
 **Overview of open issues**
