@@ -1,4 +1,4 @@
-**Hi There!**
+**Hi There!** 👋
 
 Welcome to my GitHub repo! If you find any bugs are other annoying stuff, let me know or post it on the issue pages. I will try to respond but I do this for free and in my free time! Sometimes a single bug can eat up my entire weekend and evenings but it is worth the trouble because I am really happy that there are hundreds of thousands of downloads yearly!
 
