@@ -58,10 +58,8 @@ All Repos can be found in the Repositories section. If Sphinx pages are availabl
 .. _thompson: https://erdogant.github.io/thompson
 .. _colourmap: https://erdogant.github.io/colourmap
 .. _benfordslaw: https://erdogant.github.io/benfordslaw
-
 .. _temporalrank: https://github.com/erdogant/temporalrank
 .. _caerus: https://github.com/erdogant/caerus
-
 .. _d3heatmap: https://github.com/erdogant/d3heatmap
 .. _treeplot: https://github.com/erdogant/treeplot
 .. _kaplanmeier: https://github.com/erdogant/kaplanmeier
