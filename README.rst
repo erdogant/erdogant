@@ -41,8 +41,8 @@ All Repos can be found in the Repositories section. If Sphinx pages are availabl
   +----------------+------------------+-----------------+-------------------+------------------+-----------------+ 
   
 
-.. _setgraphviz: https://erdogant.github.io/setgraphviz/
-.. _ffmpeg_setpath: https://erdogant.github.io/ffmpeg_setpath/
+.. _setgraphviz: https://github.com/erdogant/setgraphviz
+.. _ffmpeg_setpath: https://github.com/erdogant/ffmpeg_setpath
 .. _dicter: https://erdogant.github.io/dicter/
 .. _bnlearn: https://erdogant.github.io/bnlearn/
 .. _hnet: https://erdogant.github.io/hnet/
