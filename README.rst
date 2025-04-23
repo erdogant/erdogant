@@ -27,7 +27,7 @@ All Repos can be found in the Repositories section. If Sphinx pages are availabl
   +----------------+------------------+-----------------+-------------------+------------------+-----------------+       
   | `pca`_         | `clustimage`_    |                 | `kaplanmeier`_    | `irelease`_      |                 |
   +----------------+------------------+-----------------+-------------------+------------------+-----------------+    
-  | `thompson`_    | `undouble`_      |                 | `flameplot`_      | `pypiplot`_      |                 |                  
+  | `thompson`_    | `undouble`_      |                 | `KNRscore`_       | `pypiplot`_      |                 |                  
   +----------------+------------------+-----------------+-------------------+------------------+-----------------+    
   | `benfordslaw`_ |                  |                 | `worldmap`_       | `dicter`_        |                 |                  
   +----------------+------------------+-----------------+-------------------+------------------+-----------------+    
@@ -65,7 +65,7 @@ All Repos can be found in the Repositories section. If Sphinx pages are availabl
 .. _d3heatmap: https://github.com/erdogant/d3heatmap
 .. _treeplot: https://github.com/erdogant/treeplot
 .. _kaplanmeier: https://github.com/erdogant/kaplanmeier
-.. _flameplot: https://github.com/erdogant/flameplot
+.. _KNRscore: https://github.com/erdogant/KNRscore
 .. _worldmap: https://github.com/erdogant/worldmap
 .. _imagesc: https://github.com/erdogant/imagesc
 .. _scatterd: https://github.com/erdogant/scatterd
