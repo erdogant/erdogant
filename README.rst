@@ -17,11 +17,11 @@ All Repos can be found in the Repositories section. If Sphinx pages are availabl
 .. table::
   
   +----------------+------------------+-----------------+-------------------+------------------+-------------------+    
-  | Statistics     | Machine learning | (Time)Series    | Vizualization     | Utils            | API               |    
+  | Statistics     | Machine learning | (Time)Series    | Vizualization     | Utils            | LLM               |    
   +================+==================+=================+===================+==================+===================+     
-  | `bnlearn`_     | `clusteval`_     | `findpeaks`_    | `d3graph`_        | `df2onehot`_     | `googletrends`_   |     
+  | `bnlearn`_     | `clusteval`_     | `findpeaks`_    | `d3graph`_        | `df2onehot`_     |  `llmlight`_      |     
   +----------------+------------------+-----------------+-------------------+------------------+-------------------+   
-  | `hnet`_        | `classeval`_     | `temporalrank`_ | `d3heatmap`_      | `pypickle`_      | `localbenchmark`_ |     
+  | `hnet`_        | `classeval`_     | `temporalrank`_ |  `d3blocks`_      | `pypickle`_      | `localbenchmark`_ |     
   +----------------+------------------+-----------------+-------------------+------------------+-------------------+     
   | `distfit`_     | `hgboost`_       | `caerus`_       | `treeplot`_       | `ismember`_      |                   |
   +----------------+------------------+-----------------+-------------------+------------------+-------------------+       
@@ -29,15 +29,15 @@ All Repos can be found in the Repositories section. If Sphinx pages are availabl
   +----------------+------------------+-----------------+-------------------+------------------+-------------------+    
   | `thompson`_    | `undouble`_      |                 | `KNRscore`_       | `pypiplot`_      |                   |                  
   +----------------+------------------+-----------------+-------------------+------------------+-------------------+    
-  | `benfordslaw`_ | `llmlight`_      |                 | `worldmap`_       | `dicter`_        |                   |                  
+  | `benfordslaw`_ |                  |                 | `scatterd`_       | `dicter`_        |                   |                  
   +----------------+------------------+-----------------+-------------------+------------------+-------------------+    
   |                |                  |                 | `colourmap`_      |`setgraphviz`_    |                   |                  
   +----------------+------------------+-----------------+-------------------+------------------+-------------------+    
   |                |                  |                 | `imagesc`_        |`ffmpeg_setpath`_ |                   |                  
   +----------------+------------------+-----------------+-------------------+------------------+-------------------+   
-  |                |                  |                 | `scatterd`_       | `clizard`_       |                   | 
+  |                |                  |                 |                   | `clizard`_       |                   | 
   +----------------+------------------+-----------------+-------------------+------------------+-------------------+ 
-  |                |                  |                 | `d3blocks`_       |                  |                   | 
+  |                |                  |                 |                   | `googletrends`_  |                   | 
   +----------------+------------------+-----------------+-------------------+------------------+-------------------+ 
   
 
@@ -64,11 +64,9 @@ All Repos can be found in the Repositories section. If Sphinx pages are availabl
 .. _benfordslaw: https://erdogant.github.io/benfordslaw
 .. _temporalrank: https://github.com/erdogant/temporalrank
 .. _caerus: https://github.com/erdogant/caerus
-.. _d3heatmap: https://github.com/erdogant/d3heatmap
 .. _treeplot: https://github.com/erdogant/treeplot
 .. _kaplanmeier: https://github.com/erdogant/kaplanmeier
 .. _KNRscore: https://github.com/erdogant/KNRscore
-.. _worldmap: https://github.com/erdogant/worldmap
 .. _imagesc: https://github.com/erdogant/imagesc
 .. _scatterd: https://github.com/erdogant/scatterd
 .. _d3blocks: https://d3blocks.github.io/d3blocks/
@@ -108,7 +106,6 @@ Find here my `Pypi download stats`_
 |hgboost|
 |findpeaks|
 |d3graph|
-|d3heatmap|
 |treeplot|
 |kaplanmeier|
 |ismember|
@@ -141,8 +138,6 @@ Find here my `Pypi download stats`_
    :target: https://github.com/erdogant/findpeaks/issues
 .. |d3graph| image::  https://img.shields.io/github/issues/erdogant/d3graph.svg
    :target: https://github.com/erdogant/d3graph/issues
-.. |d3heatmap| image::  https://img.shields.io/github/issues/erdogant/d3heatmap.svg
-   :target: https://github.com/erdogant/d3heatmap/issues
 .. |treeplot| image::  https://img.shields.io/github/issues/erdogant/treeplot.svg
    :target: https://github.com/erdogant/treeplot/issues
 .. |kaplanmeier| image::  https://img.shields.io/github/issues/erdogant/kaplanmeier.svg
@@ -151,4 +146,5 @@ Find here my `Pypi download stats`_
    :target: https://github.com/erdogant/ismember/issues
 .. |dicter| image::  https://img.shields.io/github/issues/erdogant/dicter.svg
    :target: https://github.com/erdogant/dicter/issues
+
 
