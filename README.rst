@@ -1,8 +1,8 @@
 **Hi There!** 👋
 
-Welcome to my GitHub repo! If you find any bugs are other annoying stuff, let me know or post it on the issue pages. I will try to respond but I do this for free and in my free time! Sometimes a single bug can eat up my entire weekend and evenings but it is worth the trouble because I am really happy that there are hundreds of thousands of downloads yearly!
+Welcome to my GitHub repo! If you find any bugs or other annoying stuff, let me know or post it on the issue pages. I will try to respond, but I do this for free and in my free time! Sometimes a single bug can eat up my entire weekend and evenings, but it is worth the trouble because I am really happy that there are hundreds of thousands of downloads yearly!
 
-Your help is very appreciated! There are various ways you can help. You can report bugs/ issues, or even better help out with fixing bugs or maybe adding new features! If you don't have the time or maybe you are still learning, you can also take a `Medium`_ Membership using my referral link to keep reading all my hands-on blogs and learn more :-) If you don't need that, there is always an easy way with `Coffee`_ :-) Cheers!
+Your help is very appreciated! There are various ways you can help. You can report bugs/ issues, or even better, help out with fixing bugs or maybe adding new features! If you don't have the time or maybe you are still learning, you can also take a `Medium`_ Membership using my referral link to keep reading all my hands-on blogs and learn more :-) If you don't need that, there is always an easy way with `Coffee`_ :-) Cheers!
 
 
 .. _Medium: https://erdogant.medium.com/
@@ -35,7 +35,7 @@ All Repos can be found in the Repositories section. If Sphinx pages are availabl
   +----------------+------------------+-----------------+-------------------+------------------+-------------------+    
   |                |                  |                 | `imagesc`_        |`ffmpeg_setpath`_ |                   |                  
   +----------------+------------------+-----------------+-------------------+------------------+-------------------+   
-  |                |                  |                 |                   | `clizard`_       |                   | 
+  |                |                  |                 | `skywalk`_        | `clizard`_       |                   | 
   +----------------+------------------+-----------------+-------------------+------------------+-------------------+ 
   |                |                  |                 |                   | `googletrends`_  |                   | 
   +----------------+------------------+-----------------+-------------------+------------------+-------------------+ 
@@ -75,6 +75,7 @@ All Repos can be found in the Repositories section. If Sphinx pages are availabl
 .. _pypiplot: https://github.com/erdogant/pypiplot
 .. _googletrends: https://github.com/erdogant/googletrends
 .. _localbenchmark: https://github.com/erdogant/localbenchmark
+.. _skywalk: https://github.com/skywalk-aviation
 
 
 Find here my `Pypi download stats`_
