@@ -8,7 +8,7 @@ There are various ways you can help. You can report bugs/ issues, or even better
 .. _Medium: https://erdogant.medium.com/
 .. _Sponsor: https://erdogant.github.io/pca/pages/html/Documentation.html
 .. _Coffee: https://www.buymeacoffee.com/erdogant
-.. _Medium: https://erdogant.substack.com/
+.. _Substack: https://erdogant.substack.com/
 
 
 **A structured list of my repos**
