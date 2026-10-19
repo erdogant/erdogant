@@ -2,12 +2,13 @@
 
 Welcome to my GitHub repo! If you find any bugs or other annoying stuff, let me know or post it on the issue pages. I will try to respond, but I do this in my free time! Sometimes a single bug can eat up my entire weekend and evenings, but it is worth the trouble because I am really happy that there are hundreds of thousands of downloads yearly!
 
-Your help is very appreciated! There are various ways you can help. You can report bugs/ issues, or even better, help out with fixing bugs or maybe adding new features! If you don't have the time or maybe you are still learning, you can also take a `Medium`_ Membership using my referral link to keep reading all my hands-on blogs and learn more :-) If you don't need that, there is always an easy way with `Coffee`_ :-) Cheers!
+There are various ways you can help. You can report bugs/ issues, or even better, help out with fixing bugs or maybe adding new features! If you don't have the time or maybe you are still learning, you can also take a `Substack`_ Membership to keep reading all my hands-on blogs and learn more :-) If you don't need that, there is always an easy way with `Coffee`_ :-) Cheers!
 
 
 .. _Medium: https://erdogant.medium.com/
 .. _Sponsor: https://erdogant.github.io/pca/pages/html/Documentation.html
 .. _Coffee: https://www.buymeacoffee.com/erdogant
+.. _Medium: https://erdogant.substack.com/
 
 
 **A structured list of my repos**
