@@ -112,8 +112,6 @@ Find here my `Pypi download stats`_
 |d3graph|
 |treeplot|
 |kaplanmeier|
-|ismember|
-|dicter|
 
 
 .. |d3blocks| image::  https://img.shields.io/github/issues/d3blocks/d3blocks.svg
@@ -142,13 +140,60 @@ Find here my `Pypi download stats`_
    :target: https://github.com/erdogant/findpeaks/issues
 .. |d3graph| image::  https://img.shields.io/github/issues/erdogant/d3graph.svg
    :target: https://github.com/erdogant/d3graph/issues
-.. |treeplot| image::  https://img.shields.io/github/issues/erdogant/treeplot.svg
-   :target: https://github.com/erdogant/treeplot/issues
 .. |kaplanmeier| image::  https://img.shields.io/github/issues/erdogant/kaplanmeier.svg
    :target: https://github.com/erdogant/kaplanmeier/issues
-.. |ismember| image::  https://img.shields.io/github/issues/erdogant/ismember.svg
-   :target: https://github.com/erdogant/ismember/issues
-.. |dicter| image::  https://img.shields.io/github/issues/erdogant/dicter.svg
-   :target: https://github.com/erdogant/dicter/issues
+.. |clustaudio| image::  https://img.shields.io/github/issues/erdogant/clustaudio.svg
+   :target: https://github.com/erdogant/clustaudio/issues
+
+
+**Overview of open pull requests**
+
+|d3blocks-pr|
+|bnlearn-pr|
+|hnet-pr|
+|distfit-pr|
+|pca-pr|
+|benfordslaw-pr|
+|clustimage-pr|
+|clustaudio-pr|
+|undouble-pr|
+|clusteval-pr|
+|classeval-pr|
+|hgboost-pr|
+|findpeaks-pr|
+|d3graph-pr|
+|kaplanmeier-pr|
+
+
+.. |d3blocks-pr| image:: https://img.shields.io/github/issues-pr/d3blocks/d3blocks.svg
+   :target: https://github.com/d3blocks/d3blocks/pulls
+.. |bnlearn-pr| image:: https://img.shields.io/github/issues-pr/erdogant/bnlearn.svg
+   :target: https://github.com/erdogant/bnlearn/pulls
+.. |hnet-pr| image:: https://img.shields.io/github/issues-pr/erdogant/hnet.svg
+   :target: https://github.com/erdogant/hnet/pulls
+.. |distfit-pr| image:: https://img.shields.io/github/issues-pr/erdogant/distfit.svg
+   :target: https://github.com/erdogant/distfit/pulls
+.. |pca-pr| image:: https://img.shields.io/github/issues-pr/erdogant/pca.svg
+   :target: https://github.com/erdogant/pca/pulls
+.. |benfordslaw-pr| image:: https://img.shields.io/github/issues-pr/erdogant/benfordslaw.svg
+   :target: https://github.com/erdogant/benfordslaw/pulls
+.. |clustimage-pr| image:: https://img.shields.io/github/issues-pr/erdogant/clustimage.svg
+   :target: https://github.com/erdogant/clustimage/pulls
+.. |clustaudio-pr| image:: https://img.shields.io/github/issues-pr/erdogant/clustaudio.svg
+   :target: https://github.com/erdogant/clustaudio/pulls
+.. |undouble-pr| image:: https://img.shields.io/github/issues-pr/erdogant/undouble.svg
+   :target: https://github.com/erdogant/undouble/pulls
+.. |clusteval-pr| image:: https://img.shields.io/github/issues-pr/erdogant/clusteval.svg
+   :target: https://github.com/erdogant/clusteval/pulls
+.. |classeval-pr| image:: https://img.shields.io/github/issues-pr/erdogant/classeval.svg
+   :target: https://github.com/erdogant/classeval/pulls
+.. |hgboost-pr| image:: https://img.shields.io/github/issues-pr/erdogant/hgboost.svg
+   :target: https://github.com/erdogant/hgboost/pulls
+.. |findpeaks-pr| image:: https://img.shields.io/github/issues-pr/erdogant/findpeaks.svg
+   :target: https://github.com/erdogant/findpeaks/pulls
+.. |d3graph-pr| image:: https://img.shields.io/github/issues-pr/erdogant/d3graph.svg
+   :target: https://github.com/erdogant/d3graph/pulls
+.. |kaplanmeier-pr| image:: https://img.shields.io/github/issues-pr/erdogant/kaplanmeier.svg
+   :target: https://github.com/erdogant/kaplanmeier/pulls
 
 
