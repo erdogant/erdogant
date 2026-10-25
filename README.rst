@@ -22,15 +22,15 @@ All Repos can be found in the Repositories section. If Sphinx pages are availabl
   +================+==================+=================+===================+==================+===================+     
   | `bnlearn`_     | `clusteval`_     | `findpeaks`_    | `d3graph`_        | `df2onehot`_     |  `llmlight`_      |     
   +----------------+------------------+-----------------+-------------------+------------------+-------------------+   
-  | `hnet`_        | `clustaudio`_    | `temporalrank`_ |  `d3blocks`_      | `pypickle`_      | `localbenchmark`_ |     
+  | `hnet`_        | `classeval`_     | `temporalrank`_ |  `d3blocks`_      | `pypickle`_      | `localbenchmark`_ |     
   +----------------+------------------+-----------------+-------------------+------------------+-------------------+     
   | `distfit`_     | `clustimage`_    | `caerus`_       | `treeplot`_       | `ismember`_      |                   |
   +----------------+------------------+-----------------+-------------------+------------------+-------------------+       
-  | `pca`_         | `hgboost`_       |                 | `kaplanmeier`_    | `irelease`_      |                   |
+  | `pca`_         | `clustaudio`_    |                 | `kaplanmeier`_    | `irelease`_      |                   |
   +----------------+------------------+-----------------+-------------------+------------------+-------------------+    
   | `thompson`_    | `undouble`_      |                 | `KNRscore`_       | `pypiplot`_      |                   |                  
   +----------------+------------------+-----------------+-------------------+------------------+-------------------+    
-  | `benfordslaw`_ |                  |                 | `scatterd`_       | `dicter`_        |                   |                  
+  | `benfordslaw`_ | `hgboost`_       |                 | `scatterd`_       | `dicter`_        |                   |                  
   +----------------+------------------+-----------------+-------------------+------------------+-------------------+    
   |                |                  |                 | `colourmap`_      |`setgraphviz`_    |                   |                  
   +----------------+------------------+-----------------+-------------------+------------------+-------------------+    
@@ -54,7 +54,7 @@ All Repos can be found in the Repositories section. If Sphinx pages are availabl
 .. _hgboost: https://erdogant.github.io/hgboost/
 .. _findpeaks: https://erdogant.github.io/findpeaks/
 .. _clustimage: https://erdogant.github.io/clustimage/
-.. _clustaudio: https://erdogant.github.io/_clustaudio/
+.. _clustaudio: https://erdogant.github.io/clustaudio/
 .. _undouble:  https://erdogant.github.io/undouble/
 .. _clusteval: https://erdogant.github.io/clusteval
 .. _pypickle: https://erdogant.github.io/pypickle
